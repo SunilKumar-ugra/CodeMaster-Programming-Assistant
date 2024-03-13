@@ -31,9 +31,9 @@ pip install -r requirements.txt
 python app.py
 ```
 
-Now,
+Now,Open this url in the browser
 ```bash
-http://localhost:8501 #Open this url in the browser
+http://127.0.0.1:7860/ 
 ```
 
 # Demo
