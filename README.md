@@ -7,7 +7,7 @@ CodeMaster is state-of-the-art for publicly available LLMs on code tasks, and ha
 Clone the repository
 
 ```bash
-https://github.com/SunilKumar-ugra/Text2SQL-LLM-App.git
+git clone https://github.com/SunilKumar-ugra/CodeMaster-Programming-Assistant.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
