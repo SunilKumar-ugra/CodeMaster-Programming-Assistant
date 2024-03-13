@@ -11,8 +11,11 @@ git clone https://github.com/SunilKumar-ugra/CodeMaster-Programming-Assistant.gi
 ```
 ### STEP 01- Create a conda environment after opening the repository
 Download and Run below command in terminal
-```
+```bash
 Download [ollama]( https://ollama.com/) and Install It 
+```
+```bash
+ollama create CodeMaster -f modelfile
 ```
 ### STEP 02- Create a conda environment after opening the repository
 
