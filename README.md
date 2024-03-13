@@ -10,6 +10,11 @@ Clone the repository
 git clone https://github.com/SunilKumar-ugra/CodeMaster-Programming-Assistant.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
+Download and Run below command in terminal
+```
+Download [ollama]( https://ollama.com/) and Install It 
+```
+### STEP 02- Create a conda environment after opening the repository
 
 ```bash
 conda create -n CodeMaster python=3.10 -y
@@ -20,12 +25,12 @@ conda activate CodeMaster
 ```
 
 
-### STEP 02- Install the requirements
+### STEP 03- Install the requirements
 ```bash
 pip install -r requirements.txt
 ```
 
-### STEP 03- Run the command    
+### STEP 04- Run the command    
 ```bash 
 # Finally run the following command
 python app.py
